@@ -11,6 +11,7 @@ $('.nav-item a').on('click',function (event){
             800,
             function(){
                 window.location.hash = hash;
+                
             }
         );
     }
