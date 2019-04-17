@@ -57,7 +57,7 @@ body{
   color: #333;
 } */
 
-.section {
+.section1 {
   position: relative;
   width: 900px;
   max-width: 80%;
@@ -67,7 +67,7 @@ body{
   margin: 60px auto;
 }
 
-.section h1 {
+.section1 h1 {
   position: relative;
   margin-top: -14px;
   display: inline-block;
@@ -95,13 +95,13 @@ body{
 	}
 }
 
-.section p {
+.section1 p {
   width: 61%;
   margin: 20px auto 40px auto;
   line-height: 30px;
 }
 
-.section a {
+.section1 a {
   outline: 0;
   display: inline-block;
   padding: 20px;
@@ -117,11 +117,11 @@ body{
   -webkit-transition: all 0.3s ease 0s;
 }
 
-.section a:hover {
+.section1 a:hover {
   background-color: #1D222D;
 }
 
-.section a:link, .section a:visited, .section a:link:hover, .section a:visited:hover {
+.section1 a:link, .section a:visited, .section a:link:hover, .section a:visited:hover {
   text-decoration: none;
   color: #fff;
 }
@@ -130,15 +130,20 @@ body{
   .top-border {	
     display: none;
   }
-  .section {
+  .section1 {
   border-top: 2px solid #333;
   }
-  .section h1 {
+  .section1 h1 {
     margin: 20px 6px;
   }
 }
 
 
+
+
+/*=========================
+  Icons
+ ================= */
 
 
 
